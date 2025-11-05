@@ -4,7 +4,7 @@
 The **Garage Management System** is a relational database project designed to streamline operations in an automobile garage.  
 It covers customer management, vehicles, specialists, workers, service requests, billing, and reporting using SQL concepts like **joins, views, triggers, procedures, and cursors**.
 
-This project demonstrates **Database Design, Normalization (1NF, 2NF, 3NF), Advanced SQL Queries, Stored Procedures, Triggers, and Views**.
+This project demonstrates **Database Design, Normalization (1NF, 2NF, 3NF), Advanced SQL Queries, Stored Procedures, Triggers,Cursor and Views**.
 
 ---
 
